@@ -3,7 +3,7 @@
 Este proyecto combina **visión por computadora** con **inteligencia artificial conversacional** para analizar imágenes capturadas por la webcam:
 
 - 📸 Usa un modelo Keras para clasificar imágenes,  la cual se creo usando [Teachable Machine](https://teachablemachine.withgoogle.com/).
-- 🤖 Si el modelo no está seguro, pregunta a [LlaVa](hhttps://llava-vl.github.io/) qué hay en la imagen.
+- 🤖 Si el modelo no está seguro, pregunta a [LlaVa](https://llava-vl.github.io/) qué hay en la imagen.
 - 🧠 Se consulta a [Ollama](https://ollama.com/), una herramienta que permite correr LLM´s localment
 
 ---
